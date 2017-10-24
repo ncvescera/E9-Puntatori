@@ -38,11 +38,9 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="bool.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="dimOf.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="point.h" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -65,11 +63,9 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="bool.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="dimOf.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="point.h" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
   </confs>
